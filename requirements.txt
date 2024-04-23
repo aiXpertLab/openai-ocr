@@ -1,2 +1,2 @@
 SQLAlchemy
-mysqlclient
+mysqlclient==2.0.0
