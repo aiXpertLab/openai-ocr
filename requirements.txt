@@ -1,2 +1,5 @@
+build-essential
+pkg-config
+default-libmysqlclient-dev
 SQLAlchemy
-mysqlclient==2.0.0
+mysqlclient
