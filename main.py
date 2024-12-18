@@ -6,8 +6,11 @@ def extract_from_multiple_pages(base64_images, original_filename, output_directo
 
     for base64_image in base64_images:
         invoice_json = openaiapi.extract_invoice_data(base64_image)
-        invoice_data = json.loads(invoice_json)
-        entire_invoice.append(invoice_data)
+        if invoice_json is None:
+            print("Error: No JSON data extracted.")
+        else:
+            invoice_data = json.loads(invoice_json)
+            entire_invoice.append(invoice_data)
 
     # Ensure the output directory exists
     os.makedirs(output_directory, exist_ok=True)

@@ -38,17 +38,6 @@ def pdf_to_base64_images_fitz(pdf_path):
 
 
 def pdf_to_base64_images(pdf_path, dpi=200):
-    """
-    Convert a PDF file into base64-encoded images.
-    Handles multi-page PDFs and removes temporary images after encoding.
-
-    Args:
-        pdf_path (str): Path to the PDF file.
-        dpi (int): Resolution for image conversion (default: 200).
-
-    Returns:
-        list: A list of base64-encoded strings for each page of the PDF.
-    """
     # Convert PDF pages to images
     images = convert_from_path(pdf_path, dpi=dpi)
     base64_images = []

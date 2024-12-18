@@ -9,14 +9,14 @@ model = "gpt-4o"
 
 def extract_invoice_data(base64_image):
     system_prompt = f"""
-    You are an OCR-like data extraction tool that extracts hotel invoice data from PDFs.
+    You are an OCR-like data extraction tool that extracts bank statement data from PDFs.
    
-    1. Please extract the data in this hotel invoice, grouping data according to theme/sub groups, and then output into JSON.
+    1. Please extract the data in this bank statement, grouping data according to theme/sub groups, and then output into JSON.
 
     2. Please keep the keys and values of the JSON in the original language. 
 
-    3. The type of data you might encounter in the invoice includes but is not limited to: hotel information, guest information, invoice information,
-    room charges, taxes, and total charges etc. 
+    3. The type of data you might encounter in the bank statement includes but is not limited to: 
+        bank name, account number, transaction description, amount, date
 
     4. If the page contains no charge data, please output an empty JSON object and don't make up any data.
 
@@ -44,7 +44,7 @@ def extract_invoice_data(base64_image):
             {
                 "role": "user",
                 "content": [
-                    {"type": "text", "text": "extract the data in this hotel invoice and output into JSON "},
+                    {"type": "text", "text": "extract the data in this bank statement and output into JSON "},
                     {"type": "image_url", "image_url": {"url": f"data:image/png;base64,{base64_image}", "detail": "high"}}
                 ]
             }

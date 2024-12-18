@@ -1,0 +1,1551 @@
+[
+    {
+        "bank_information": {
+            "name": "Regions Bank",
+            "branch": "Auburn Main",
+            "address": "165 N College Street, Auburn, AL 36830"
+        },
+        "account_information": {
+            "account_name": "RAW CONCEPTUAL",
+            "address": "1199 S DONAHUE DR, AUBURN AL 36832-5849",
+            "account_number": "0229106249",
+            "cycle": "001",
+            "page": "1 of 8"
+        },
+        "statement_period": {
+            "start_date": "December 1, 2021",
+            "end_date": "December 31, 2021"
+        },
+        "summary": {
+            "beginning_balance": "$10,418.98",
+            "deposits_credits": "$273,927.05",
+            "withdrawals": "$237,789.32",
+            "fees": "$185.00",
+            "automatic_transfers": "$0.00",
+            "checks": "$24,029.23",
+            "ending_balance": "$22,342.48",
+            "minimum_daily_balance": "$3,535",
+            "average_monthly_statement_balance": "$32,222"
+        },
+        "deposits_credits": [
+            {
+                "date": "12/01",
+                "description": "Deposit - Thank You",
+                "amount": "12,574.42"
+            },
+            {
+                "date": "12/06",
+                "description": "Deposit - Thank You",
+                "amount": "11,034.37"
+            },
+            {
+                "date": "12/07",
+                "description": "Etsy Inc Deposit Raw Conceptual",
+                "amount": "21,512.81"
+            },
+            {
+                "date": "12/08",
+                "description": "Wire Transfer Wholesale and",
+                "amount": "77,683.95"
+            },
+            {
+                "date": "12/14",
+                "description": "Etsy Inc Deposit Raw Conceptual",
+                "amount": "22,056.13"
+            },
+            {
+                "date": "12/14",
+                "description": "Wire Transfer Wholesale and",
+                "amount": "65,818.37"
+            },
+            {
+                "date": "12/15",
+                "description": "Deposit - Thank You",
+                "amount": "9,616.73"
+            },
+            {
+                "date": "12/16",
+                "description": "Wire Transfer Wholesale and",
+                "amount": "9,620.00"
+            },
+            {
+                "date": "12/17",
+                "description": "Deposit - Thank You",
+                "amount": "74,554.50"
+            },
+            {
+                "date": "12/21",
+                "description": "Etsy Inc Deposit Raw Conceptual",
+                "amount": "14,570.12"
+            },
+            {
+                "date": "12/27",
+                "description": "Card Credit Target.Com * 5310 800-591-3869 MN 55445 2575",
+                "amount": "7.51"
+            },
+            {
+                "date": "12/27",
+                "description": "Wire Transfer Wholesale and",
+                "amount": "10,879.50"
+            },
+            {
+                "date": "12/27",
+                "description": "Deposit - Thank You",
+                "amount": "8,534.31"
+            },
+            {
+                "date": "12/28",
+                "description": "Etsy Inc Deposit Raw Conceptual",
+                "amount": "9,373.33"
+            }
+        ],
+        "total_deposits_credits": "$273,927.05",
+        "withdrawals": [
+            {
+                "date": "12/01",
+                "description": "Card Purchase Marathon Petro2 5541 Auburn AL 36832 2575",
+                "amount": "3.48"
+            },
+            {
+                "date": "12/01",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshoppo CA 94103 2575",
+                "amount": "100.81"
+            },
+            {
+                "date": "12/01",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshoppo CA 94103 2575",
+                "amount": "101.22"
+            },
+            {
+                "date": "12/01",
+                "description": "State Farm Ro 27 Sfpp Matthew Tse",
+                "amount": "350.23"
+            },
+            {
+                "date": "12/02",
+                "description": "Card Purchase Amzn Mktp Us*77 5942 Amzn.Com/Bill WA 98109 2575",
+                "amount": "13,879.05"
+            },
+            {
+                "date": "12/02",
+                "description": "Card Purchase King Skewer 6812 Doraville GA 30340 2575",
+                "amount": "53.97"
+            },
+            {
+                "date": "12/02",
+                "description": "Card Purchase King Skewer 6812 Doraville GA 30340 2575",
+                "amount": "230.13"
+            }
+        ]
+    },
+    {
+        "bank_information": {
+            "name": "Regions Bank",
+            "branch": "Auburn Main",
+            "address": "165 E College Street, Auburn, AL 36830"
+        },
+        "account_information": {
+            "account_number": "0229106249",
+            "cycle": "001",
+            "enclosures": "20",
+            "page": "2 of 8"
+        },
+        "customer_information": {
+            "name": "RAW CONCEPTUAL",
+            "address": "1199 S DONAHUE DR, AUBURN AL 36832-5849"
+        },
+        "withdrawals": [
+            {
+                "date": "12/02",
+                "description": "Card Purchase Chevron 0377232 5541 Opelika AL 36801 2575",
+                "amount": "8.77"
+            },
+            {
+                "date": "12/02",
+                "description": "Recurring Card Transaction Postage Goshpyp 7399 Httpsgoshpyp CA 94103 2575",
+                "amount": "101.82"
+            },
+            {
+                "date": "12/02",
+                "description": "Recurring Card Transaction Postage Goshpyp 7399 Httpsgoshpyp CA 94103 2575",
+                "amount": "107.41"
+            },
+            {
+                "date": "12/02",
+                "description": "Paypal Inst Xfer Raw Conceptual Dropbox",
+                "amount": "19.99"
+            },
+            {
+                "date": "12/02",
+                "description": "American Strategic 8662748765 Raw Conceptual Dd6ec2607b80",
+                "amount": "25.33"
+            },
+            {
+                "date": "12/02",
+                "description": "1800airlink Quickbooks Raw Conceptual 2735431",
+                "amount": "2.00"
+            },
+            {
+                "date": "12/02",
+                "description": "Wells Fargo Bank Lease Pmts Raw Conceptual 00000000919270",
+                "amount": "2,297.88"
+            },
+            {
+                "date": "12/02",
+                "description": "PIN Purchase The Home Dept 5200 Opelika AL 2575",
+                "amount": "13.68"
+            },
+            {
+                "date": "12/03",
+                "description": "Card Purchase Chicken Salad C 5814 Opelika AL 36801 2575",
+                "amount": "34.09"
+            },
+            {
+                "date": "12/03",
+                "description": "Card Purchase U Haul Store 00 5999 334-8873412 AL 36830 2575",
+                "amount": "16.52"
+            },
+            {
+                "date": "12/03",
+                "description": "Card Purchase Fsi*Alabama Pow 4900 877-677-2661 GA 30092 2575",
+                "amount": "377.91"
+            },
+            {
+                "date": "12/03",
+                "description": "Card Purchase Kroger #361 5411 Opelika AL 36801 2575",
+                "amount": "32.63"
+            },
+            {
+                "date": "12/03",
+                "description": "Recurring Card Transaction Postage Goshpyp 7399 Httpsgoshpyp CA 94103 2575",
+                "amount": "103.81"
+            },
+            {
+                "date": "12/03",
+                "description": "Card Purchase Expert Cleaning 7349 Opelika AL 36801 2575",
+                "amount": "134.00"
+            },
+            {
+                "date": "12/03",
+                "description": "Card Purchase Instacart*161 5411 HttpsInstacart CA 94105 2575",
+                "amount": "61.11"
+            },
+            {
+                "date": "12/03",
+                "description": "Westernbizz B.V. 1st Paypal Raw Conceptual 1017150176085",
+                "amount": "12.00"
+            },
+            {
+                "date": "12/03",
+                "description": "Card Purchase Wasabi Japanese 5812 Opelika AL 36804 2575",
+                "amount": "1,854.08"
+            },
+            {
+                "date": "12/06",
+                "description": "PIN Purchase The Home Dept 5200 Opelika AL 36801 2575",
+                "amount": "28.39"
+            },
+            {
+                "date": "12/06",
+                "description": "Recurring Card Transaction Postage Goshpyp 7399 Httpsgoshpyp CA 94103 2575",
+                "amount": "105.55"
+            },
+            {
+                "date": "12/06",
+                "description": "Card Purchase Abs Shoes By 5944 999-999999 AL 36830 2575",
+                "amount": "272.50"
+            },
+            {
+                "date": "12/06",
+                "description": "Card Purchase A*Woww 5899 866-496-9669 or 97803 2575",
+                "amount": "181.10"
+            },
+            {
+                "date": "12/06",
+                "description": "Card Purchase 1st* The Hound 8812 Auburn AL 36830 2575",
+                "amount": "150.76"
+            },
+            {
+                "date": "12/06",
+                "description": "Card Purchase Alfreypow 5999 152-5889610 CA 94102 2575",
+                "amount": "24.99"
+            },
+            {
+                "date": "12/06",
+                "description": "Card Purchase Circle K 01659 5542 Auburn AL 36830 2575",
+                "amount": "69.28"
+            },
+            {
+                "date": "12/06",
+                "description": "Card Purchase Asian Supermark 5411 Opelika AL 36801 2575",
+                "amount": "77.91"
+            },
+            {
+                "date": "12/06",
+                "description": "Card Purchase Amazon.Com*mkc 5942 Amazon.Com/Bill WA 98109 2575",
+                "amount": "306.15"
+            },
+            {
+                "date": "12/06",
+                "description": "Card Purchase Target.Com * 5310 800-591-3869 MN 55445 2575",
+                "amount": "15.00"
+            },
+            {
+                "date": "12/06",
+                "description": "Card Purchase Target.Com * 5310 800-591-3869 MN 55445 2575",
+                "amount": "112.91"
+            },
+            {
+                "date": "12/06",
+                "description": "Card Purchase Family Ace 5251 Auburn AL 36830 2575",
+                "amount": "28.00"
+            },
+            {
+                "date": "12/06",
+                "description": "Card Purchase Target.Com * 5310 800-591-3869 MN 55445 2575",
+                "amount": "128.79"
+            },
+            {
+                "date": "12/06",
+                "description": "Paypal Inst Xfer Raw Conceptual Alipayincus",
+                "amount": "500.00"
+            },
+            {
+                "date": "12/06",
+                "description": "Paypal Inst Xfer Raw Conceptual Alipayincus",
+                "amount": "500.00"
+            },
+            {
+                "date": "12/06",
+                "description": "Recurring Card Transaction Adobe Products 5734 408-536-6000 CA 95110 2575",
+                "amount": "41.95"
+            },
+            {
+                "date": "12/07",
+                "description": "Card Purchase Target.Com * 5310 800-591-3869 MN 55445 2575",
+                "amount": "21.59"
+            },
+            {
+                "date": "12/07",
+                "description": "Recurring Card Transaction Postage Goshpyp 7399 Httpsgoshpyp CA 94103 2575",
+                "amount": "102.61"
+            },
+            {
+                "date": "12/07",
+                "description": "Recurring Card Transaction Postage Goshpyp 7399 Httpsgoshpyp CA 94103 2575",
+                "amount": "108.52"
+            },
+            {
+                "date": "12/07",
+                "description": "Recurring Card Transaction Postage Goshpyp 7399 Httpsgoshpyp CA 94103 2575",
+                "amount": "100.50"
+            },
+            {
+                "date": "12/07",
+                "description": "Recurring Card Transaction Eigh*omestead.C 4816 800-9860958 MA 01085 2575",
+                "amount": "24.83"
+            },
+            {
+                "date": "12/07",
+                "description": "Recurring Card Transaction Bhm*opelika AL 3696 334-749-6271 AL 36804 2575",
+                "amount": "10.99"
+            },
+            {
+                "date": "12/07",
+                "description": "Recurring Card Transaction Intuit *Quikcbo 5734 C1.Llntuit.Com CA 94043 2575",
+                "amount": "14.70"
+            },
+            {
+                "date": "12/07",
+                "description": "Card Purchase Guthries Chicken 5814 Opelika AL 36804 2575",
+                "amount": "45.33"
+            },
+            {
+                "date": "12/07",
+                "description": "Card Purchase Guthries Chicken 5814 Opelika AL 36804 2575",
+                "amount": "27.45"
+            },
+            {
+                "date": "12/07",
+                "description": "Card Purchase Wal-Mart #0355 5411 Opelika AL 36801 2575",
+                "amount": "43.59"
+            },
+            {
+                "date": "12/07",
+                "description": "Paypal Inst Xfer Raw Conceptual Ebay 800-456-32",
+                "amount": "396.40"
+            },
+            {
+                "date": "12/07",
+                "description": "Alabama Power Web EFT Raw Conceptual",
+                "amount": "478.63"
+            },
+            {
+                "date": "12/07",
+                "description": "Auburn Realty L Web Pmts Raw Conceptual 8hgd65",
+                "amount": "99.88"
+            },
+            {
+                "date": "12/07",
+                "description": "Federal Express Fedex 1938333635",
+                "amount": "1,424.83"
+            },
+            {
+                "date": "12/07",
+                "description": "Ankur Kumar 1st Paypal Raw Conceptual 1017422768058",
+                "amount": "300.00"
+            },
+            {
+                "date": "12/08",
+                "description": "Recurring Card Transaction Postage Goshpyp 7399 Httpsgoshpyp CA 94103 2575",
+                "amount": "100.42"
+            },
+            {
+                "date": "12/08",
+                "description": "Recurring Card Transaction Postage Goshpyp 7399 Httpsgoshpyp CA 94103 2575",
+                "amount": "103.70"
+            }
+        ]
+    },
+    {
+        "bank_information": {
+            "name": "Regions Bank",
+            "branch": "Auburn Main",
+            "address": "165 N College Street, Auburn, AL 36830"
+        },
+        "account_information": {
+            "account_number": "0229106249",
+            "cycle": "001",
+            "enclosures": "26",
+            "page": "3 of 8"
+        },
+        "withdrawals": [
+            {
+                "date": "12/08",
+                "description": "Recurring Card Transaction Shopify* 127297 5734 Httpsshopify. Il 60007 2575",
+                "amount": "351.97"
+            },
+            {
+                "date": "12/08",
+                "description": "Card Purchase Target.Com * 5310 800-591-3869 MN 55445 2575",
+                "amount": "1.74"
+            },
+            {
+                "date": "12/08",
+                "description": "Card Purchase Wm Supercenter 5411 Opelika AL 36801 2575",
+                "amount": "292.08"
+            },
+            {
+                "date": "12/08",
+                "description": "Card Purchase Bojangles 5814 Opelika AL 36801 2575",
+                "amount": "7.82"
+            },
+            {
+                "date": "12/08",
+                "description": "Recurring Card Transaction Printboss 5734 Www.Printboss MO 63011 2575",
+                "amount": "8.00"
+            },
+            {
+                "date": "12/08",
+                "description": "Card Purchase Klarna Inc 5999 Klarna.Com OH 43215 2575",
+                "amount": "152.09"
+            },
+            {
+                "date": "12/08",
+                "description": "Paypal Inst Xfer Raw Conceptual Auctne LLC",
+                "amount": "99.00"
+            },
+            {
+                "date": "12/08",
+                "description": "Grove Hill Acade 7708782924 Matthew Tse",
+                "amount": "376.00"
+            },
+            {
+                "date": "12/08",
+                "description": "Wire Transfer Chengdu Huangc",
+                "amount": "15,000.00"
+            },
+            {
+                "date": "12/08",
+                "description": "Wire Transfer Yong Kang Jinji",
+                "amount": "16,951.09"
+            },
+            {
+                "date": "12/09",
+                "description": "Card Purchase Amzn Mktp Us*55 5942 Amzn.Com/Bill WA 98109 2575",
+                "amount": "12.85"
+            },
+            {
+                "date": "12/09",
+                "description": "Card Purchase Victory Fuel Cl 5541 Auburn AL 36830 2575",
+                "amount": "13.58"
+            },
+            {
+                "date": "12/09",
+                "description": "Recurring Card Transaction Intuit *Quickbo 5734 Cl.Intuit.Com CA 94043 2575",
+                "amount": "42.00"
+            },
+            {
+                "date": "12/09",
+                "description": "Card Purchase Wm Supercenter 5411 Auburn AL 36832 2575",
+                "amount": "79.92"
+            },
+            {
+                "date": "12/09",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshoppo CA 94103 2575",
+                "amount": "103.69"
+            },
+            {
+                "date": "12/09",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshoppo CA 94103 2575",
+                "amount": "106.49"
+            },
+            {
+                "date": "12/09",
+                "description": "Paypal Inst Xfer Raw Conceptual Dropbox",
+                "amount": "45.00"
+            },
+            {
+                "date": "12/09",
+                "description": "Auburn Water Wtr Cy 4 & 9 Tse, Matthew",
+                "amount": "63.97"
+            },
+            {
+                "date": "12/10",
+                "description": "Ally Alll Payment Raw Conceptual 2208102574855",
+                "amount": "1,370.18"
+            },
+            {
+                "date": "12/10",
+                "description": "Raw Conceptual Rgcrp Raw Conceptual",
+                "amount": "4,064.42"
+            },
+            {
+                "date": "12/10",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshoppo CA 94103 2575",
+                "amount": "101.32"
+            },
+            {
+                "date": "12/10",
+                "description": "Card Purchase Amazon Seller R 5942 Amzn.Com/Bill WA 98109 2575",
+                "amount": "39.99"
+            },
+            {
+                "date": "12/10",
+                "description": "U.A. Foundation Eft Trans Raw Conceptual",
+                "amount": "41.67"
+            },
+            {
+                "date": "12/10",
+                "description": "Cooks Pest Cont Cprabush County State",
+                "amount": "100.00"
+            },
+            {
+                "date": "12/10",
+                "description": "Paypal Inst Xfer Raw Conceptual Aliyapusicn",
+                "amount": "45.00"
+            },
+            {
+                "date": "12/10",
+                "description": "Wire Transfer Yong Kang Jinji",
+                "amount": "765.56"
+            },
+            {
+                "date": "12/11",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshoppo CA 94103 2575",
+                "amount": "101.31"
+            },
+            {
+                "date": "12/11",
+                "description": "Card Purchase The Factory Of 9399 Egov.Com AL 36104 2575",
+                "amount": "236.00"
+            },
+            {
+                "date": "12/11",
+                "description": "Card Purchase Triangle Acct Account 8391 Cary NC 27511 2575",
+                "amount": "350.00"
+            },
+            {
+                "date": "12/11",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshoppo CA 94103 2575",
+                "amount": "104.80"
+            },
+            {
+                "date": "12/11",
+                "description": "Card Purchase Racetrac298 0 0542 Newnan GA 30265 2575",
+                "amount": "59.88"
+            },
+            {
+                "date": "12/11",
+                "description": "Card Purchase Amzn Mktp Us*89 5942 Amzn.Com/Bill WA 98109 2575",
+                "amount": "205.00"
+            },
+            {
+                "date": "12/11",
+                "description": "Card Purchase Legends Van Ren 7159 Inglewood CA 90301 2575",
+                "amount": "122.10"
+            },
+            {
+                "date": "12/11",
+                "description": "Card Purchase Callaway Resort 7011 8445123586 CA 31832 2575",
+                "amount": "113.85"
+            },
+            {
+                "date": "12/11",
+                "description": "Card Purchase East Sea Fisher 5812 334-3295600 AL 36830 2575",
+                "amount": "238.00"
+            },
+            {
+                "date": "12/11",
+                "description": "Card Purchase Amzn Mktp Us*fm 5942 Amzn.Com/Bill WA 98109 2575",
+                "amount": "31.20"
+            },
+            {
+                "date": "12/11",
+                "description": "Card Purchase Amzn Mktp Us*fy 5942 Amzn.Com/Bill WA 98109 2575",
+                "amount": "9.71"
+            },
+            {
+                "date": "12/11",
+                "description": "Recurring Card Transaction Amazon Prime*64 5808 Amzn.Com/Bill WA 98109 2575",
+                "amount": "14.99"
+            },
+            {
+                "date": "12/12",
+                "description": "Card Purchase Instacart*161 5411 Httpsinstacart CA 94105 2575",
+                "amount": "103.52"
+            },
+            {
+                "date": "12/12",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshoppo CA 94103 2575",
+                "amount": "102.66"
+            },
+            {
+                "date": "12/12",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshoppo CA 94103 2575",
+                "amount": "101.56"
+            },
+            {
+                "date": "12/12",
+                "description": "Recurring Card Transaction Slk*shutterstoc 7333 866-6633954 NY 10118 2575",
+                "amount": "182.52"
+            },
+            {
+                "date": "12/13",
+                "description": "Card Purchase Dunkin #350165 5814 678-752-5903 AL 36832 2575",
+                "amount": "20.94"
+            },
+            {
+                "date": "12/13",
+                "description": "Card Purchase Wal-Mart #3056 5411 Auburn AL 36832 2575",
+                "amount": "162.63"
+            },
+            {
+                "date": "12/13",
+                "description": "Paypal Inst Xfer Raw Conceptual Instantlink",
+                "amount": "54.49"
+            },
+            {
+                "date": "12/13",
+                "description": "Paypal Inst Xfer Raw Conceptual Starbucks",
+                "amount": "100.00"
+            },
+            {
+                "date": "12/13",
+                "description": "Ads Security, L Services Southern Table",
+                "amount": "149.00"
+            },
+            {
+                "date": "12/13",
+                "description": "Discover Payments Feng Jiajiao 107",
+                "amount": "982.32"
+            },
+            {
+                "date": "12/13",
+                "description": "Citi Card Online Paymt Matthew Tse 430614225170260",
+                "amount": "995.08"
+            },
+            {
+                "date": "12/13",
+                "description": "Paypal Inst Xfer Raw Conceptual Matthew Tse 353957818",
+                "amount": "100.00"
+            },
+            {
+                "date": "12/14",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshoppo CA 94103 2575",
+                "amount": "101.33"
+            },
+            {
+                "date": "12/14",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshoppo CA 94103 2575",
+                "amount": "101.37"
+            },
+            {
+                "date": "12/14",
+                "description": "Card Purchase McAlister S 101 5814 334-502-0101 GA 30076 2575",
+                "amount": "58.58"
+            }
+        ]
+    },
+    {
+        "bank_information": {
+            "name": "Regions Bank",
+            "branch": "Auburn Main",
+            "address": "165 N College Street, Auburn, AL 36830"
+        },
+        "account_information": {
+            "account_number": "0229106249",
+            "cycle": "001",
+            "enclosures": "26",
+            "page": "4 of 8"
+        },
+        "withdrawals": [
+            {
+                "date": "12/14",
+                "description": "Paypal Inst Xfer Raw Conceptual 379512397",
+                "amount": "1.00"
+            },
+            {
+                "date": "12/14",
+                "description": "Grove Hill Acade 7708782924 Matthew Tse",
+                "amount": "376.00"
+            },
+            {
+                "date": "12/14",
+                "description": "Paypal Inst Xfer Raw Conceptual 379512397",
+                "amount": "633.00"
+            },
+            {
+                "date": "12/14",
+                "description": "Paypal Inst Xfer Raw Conceptual Jiehuang0310",
+                "amount": "895.81"
+            },
+            {
+                "date": "12/14",
+                "description": "Paypal Inst Xfer Raw Conceptual Alipayusinc",
+                "amount": "1,699.34"
+            },
+            {
+                "date": "12/14",
+                "description": "Federal Express Debit Epa96505926",
+                "amount": "12,122.68"
+            },
+            {
+                "date": "12/14",
+                "description": "Wire Transfer Yong Kang Jin",
+                "amount": "17,048.20"
+            },
+            {
+                "date": "12/15",
+                "description": "Card Purchase Amzn Mktp Us*6 5942 Amzn.Com/Bill WA 98109 2575",
+                "amount": "64.75"
+            },
+            {
+                "date": "12/15",
+                "description": "Card Purchase Domino S 9410 5814 770-777-2217 AL 36832 2575",
+                "amount": "24.80"
+            },
+            {
+                "date": "12/15",
+                "description": "Card Purchase Legends Van Ren 7519 Inglewood CA 90301 2575",
+                "amount": "365.14"
+            },
+            {
+                "date": "12/15",
+                "description": "Paypal Inst Xfer Raw Conceptual Ctct",
+                "amount": "20.00"
+            },
+            {
+                "date": "12/15",
+                "description": "Paypal Inst Xfer Raw Conceptual Alipayusinc",
+                "amount": "2,451.17"
+            },
+            {
+                "date": "12/15",
+                "description": "Wire Transfer Chengdu Huangc",
+                "amount": "10,500.00"
+            },
+            {
+                "date": "12/16",
+                "description": "Card Purchase Spirit Air 487 3260 Miramar FL 33025 2575",
+                "amount": "220.00"
+            },
+            {
+                "date": "12/16",
+                "description": "Card Purchase Edible Arrangement 5499 877-363-7848 GA 30328 2575",
+                "amount": "123.16"
+            },
+            {
+                "date": "12/16",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshoppo CA 94103 2575",
+                "amount": "130.06"
+            },
+            {
+                "date": "12/16",
+                "description": "Logmein Inc. Fka Jive/Logme Raw Conceptual M4311947853",
+                "amount": "100.05"
+            },
+            {
+                "date": "12/16",
+                "description": "Paypal Inst Xfer Raw Conceptual Alipayusinc",
+                "amount": "304.44"
+            },
+            {
+                "date": "12/17",
+                "description": "Card Purchase Walmart.Com Av 5310 800-966-6546 AR 72716 2575",
+                "amount": "2,451.17"
+            },
+            {
+                "date": "12/17",
+                "description": "Card Purchase Amzn Mktp Us*5u 5942 Amzn.Com/Bill WA 98109 2575",
+                "amount": "86.11"
+            },
+            {
+                "date": "12/17",
+                "description": "Card Purchase Buffalo Wild W 5813 Opelika AL 36801 2575",
+                "amount": "150.84"
+            },
+            {
+                "date": "12/17",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshoppo CA 94103 2575",
+                "amount": "101.55"
+            },
+            {
+                "date": "12/17",
+                "description": "Recurring Card Transaction Amazone Prime*07 5968 Amzn.Com/Bill WA 98109 2575",
+                "amount": "14.03"
+            },
+            {
+                "date": "12/17",
+                "description": "Card Purchase Expert Cleaning 7349 Opelika AL 36801 2575",
+                "amount": "34.00"
+            },
+            {
+                "date": "12/17",
+                "description": "Logmein Inc. Fka Jive/Logme Raw Conceptual M4311740121",
+                "amount": "13.00"
+            },
+            {
+                "date": "12/20",
+                "description": "Wire Transfer Chengdu Huangc",
+                "amount": "16,471.35"
+            },
+            {
+                "date": "12/20",
+                "description": "Card Purchase Amzn.Com*5z7 5942 Amzn.Com/Bill WA 98109 2575",
+                "amount": "267.15"
+            },
+            {
+                "date": "12/20",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshoppo CA 94103 2575",
+                "amount": "101.76"
+            },
+            {
+                "date": "12/20",
+                "description": "Card Purchase Kroger Fuel #16 5542 Opelika AL 36801 2575",
+                "amount": "49.00"
+            },
+            {
+                "date": "12/20",
+                "description": "Paypal Inst Xfer Raw Conceptual Google Youtube",
+                "amount": "21.68"
+            },
+            {
+                "date": "12/20",
+                "description": "Paypal Inst Xfer Raw Conceptual Aldaasameri",
+                "amount": "150.14"
+            },
+            {
+                "date": "12/20",
+                "description": "Paypal Inst Xfer Raw Conceptual Alipayusinc",
+                "amount": "190.54"
+            },
+            {
+                "date": "12/20",
+                "description": "Paypal Inst Xfer Raw Conceptual Aldaasameri",
+                "amount": "21.08"
+            },
+            {
+                "date": "12/20",
+                "description": "Paypal Inst Xfer Raw Conceptual Alipayusinc",
+                "amount": "3,021.04"
+            },
+            {
+                "date": "12/20",
+                "description": "Ankur Kumar Inst Paypal Raw Conceptual 1017447889122",
+                "amount": "3,021.04"
+            },
+            {
+                "date": "12/21",
+                "description": "Recurring Card Transaction Adobe L Creati 5734 408-536-6000 CA 95110 2575",
+                "amount": "22.67"
+            },
+            {
+                "date": "12/21",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshoppo CA 94103 2575",
+                "amount": "160.49"
+            },
+            {
+                "date": "12/21",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshoppo CA 94103 2575",
+                "amount": "101.64"
+            },
+            {
+                "date": "12/21",
+                "description": "Assurant Ins. Prem Tse Matthew",
+                "amount": "11.75"
+            },
+            {
+                "date": "12/21",
+                "description": "Wire Transfer Yong Kang Jin",
+                "amount": "11,534.65"
+            },
+            {
+                "date": "12/22",
+                "description": "Raw Conceptual Rcgr Raw Conceptual",
+                "amount": "5,271.58"
+            },
+            {
+                "date": "12/22",
+                "description": "Card Purchase Amzn Mktp Us*579 5942 Amzn.Com/Bill WA 98109 2575",
+                "amount": "4.86"
+            },
+            {
+                "date": "12/22",
+                "description": "Card Purchase Instacart* 5411 Httpsinstacart CA 94105 2575",
+                "amount": "67.72"
+            },
+            {
+                "date": "12/22",
+                "description": "Grove Hill Acade 7708782924 Matthew Tse",
+                "amount": "376.00"
+            },
+            {
+                "date": "12/23",
+                "description": "Card Purchase Triangle Account 8931 Cary NC 27511 2575",
+                "amount": "25.75"
+            },
+            {
+                "date": "12/23",
+                "description": "Card Purchase Amazon.Com*0b1b 5942 Amzn.Com/Bill WA 98109 2575",
+                "amount": "2,400.00"
+            },
+            {
+                "date": "12/23",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshoppo CA 94103 2575",
+                "amount": "1.07"
+            },
+            {
+                "date": "12/23",
+                "description": "Card Purchase Amzn Mktp Us*5v8 5942 Amzn.Com/Bill WA 98109 2575",
+                "amount": "103.05"
+            },
+            {
+                "date": "12/23",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshoppo CA 94103 2575",
+                "amount": "32.72"
+            },
+            {
+                "date": "12/23",
+                "description": "Paypal Inst Xfer Raw Conceptual Alipayusinc",
+                "amount": "101.94"
+            },
+            {
+                "date": "12/23",
+                "description": "Paypal Inst Xfer Raw Conceptual Alipayusinc",
+                "amount": "1,663.29"
+            }
+        ]
+    },
+    {
+        "bank_information": {
+            "name": "Regions Bank",
+            "branch": "Auburn Main",
+            "address": "165 N College Street, Auburn, AL 36830"
+        },
+        "account_information": {
+            "account_number": "0229106249",
+            "cycle": "001",
+            "enclosures": "26",
+            "page": "5 of 8"
+        },
+        "withdrawals": [
+            {
+                "date": "12/24",
+                "description": "Card Purchase Buffalo Wild Wl 5813 Opelika AL 36801",
+                "code": "2575",
+                "amount": "188.88"
+            },
+            {
+                "date": "12/24",
+                "description": "Card Purchase Amzn Mktp Us*32 5942 Amzn.Com/Bill WA 98109",
+                "code": "2575",
+                "amount": "12.95"
+            },
+            {
+                "date": "12/24",
+                "description": "Paypal Inst Xfer Raw Conceptual Bluehostcom",
+                "amount": "20.99"
+            },
+            {
+                "date": "12/24",
+                "description": "Paypal Inst Xfer Raw Conceptual Instantink",
+                "amount": "27.24"
+            },
+            {
+                "date": "12/24",
+                "description": "Paypal Inst Xfer Raw Conceptual Starbucks",
+                "amount": "100.00"
+            },
+            {
+                "date": "12/27",
+                "description": "Card Purchase Wendy S Digital 5814 877-949-3622 OH 43017",
+                "code": "2575",
+                "amount": "29.04"
+            },
+            {
+                "date": "12/27",
+                "description": "Card Purchase Amazon.Com*35w 5942 Amzn.Com/Bill WA 98109",
+                "code": "2575",
+                "amount": "21.45"
+            },
+            {
+                "date": "12/27",
+                "description": "Card Purchase Amazon.Com*2fu 5942 Amzn.Com/Bill WA 98109",
+                "code": "2575",
+                "amount": "21.45"
+            },
+            {
+                "date": "12/27",
+                "description": "Card Purchase Amzn Mktp Us*w 5942 Amzn.Com/Bill WA 98109",
+                "code": "2575",
+                "amount": "122.96"
+            },
+            {
+                "date": "12/27",
+                "description": "Card Purchase DD Doordash Chn 5812 855-973-1040 CA 94107",
+                "code": "2575",
+                "amount": "18.60"
+            },
+            {
+                "date": "12/27",
+                "description": "Recurring Card Transaction Adobe Creative 5734 408-536-6000 CA 95110",
+                "amount": "22.82"
+            },
+            {
+                "date": "12/27",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshippo CA 94103",
+                "code": "2575",
+                "amount": "57.23"
+            },
+            {
+                "date": "12/27",
+                "description": "Card Purchase Amzn Mktp Us*3g 5942 Amzn.Com/Bill WA 98109",
+                "code": "2575",
+                "amount": "103.06"
+            },
+            {
+                "date": "12/27",
+                "description": "Card Purchase Target.Com * 5310 800-591-3869 MN 55445",
+                "code": "2575",
+                "amount": "42.05"
+            },
+            {
+                "date": "12/27",
+                "description": "Card Purchase Target.Com * 5310 800-591-3869 MN 55445",
+                "code": "2575",
+                "amount": "22.00"
+            },
+            {
+                "date": "12/27",
+                "description": "Card Purchase Bojangles 5814 Opelika AL 36801",
+                "code": "2575",
+                "amount": "220.13"
+            },
+            {
+                "date": "12/27",
+                "description": "Card Purchase Target.Com * 5310 800-591-3869 MN 55445",
+                "code": "2575",
+                "amount": "33.78"
+            },
+            {
+                "date": "12/27",
+                "description": "Paypal Inst Xfer Raw Conceptual Hulu",
+                "amount": "6.99"
+            },
+            {
+                "date": "12/27",
+                "description": "Paypal Inst Xfer Raw Conceptual Pp*magazine",
+                "amount": "19.98"
+            },
+            {
+                "date": "12/27",
+                "description": "Interntl Finan Payment Raw Conceptual 00100004822135",
+                "amount": "75.13"
+            },
+            {
+                "date": "12/27",
+                "description": "Paypal Inst Xfer Raw Conceptual Aliyapusic",
+                "amount": "156.46"
+            },
+            {
+                "date": "12/28",
+                "description": "Wire Transfer Fedex Trade Ne",
+                "amount": "1,597.02"
+            },
+            {
+                "date": "12/28",
+                "description": "Card Purchase Wendy S Digital 5814 877-949-3622 OH 43017",
+                "code": "2575",
+                "amount": "28.61"
+            },
+            {
+                "date": "12/28",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshippo CA 94103",
+                "code": "2575",
+                "amount": "102.46"
+            },
+            {
+                "date": "12/28",
+                "description": "Wire Intl Adcba 7708828924 Matthew Tse",
+                "amount": "53.00"
+            },
+            {
+                "date": "12/28",
+                "description": "Paypal Inst Xfer Raw Conceptual Aliyapusic",
+                "amount": "316.05"
+            },
+            {
+                "date": "12/28",
+                "description": "Wire Interntal Int Paypal Raw Conceptual 1017626899331",
+                "amount": "63.30"
+            },
+            {
+                "date": "12/28",
+                "description": "Wire Interntal Int Paypal Raw Conceptual 1017626925482",
+                "amount": "158.25"
+            },
+            {
+                "date": "12/29",
+                "description": "Card Purchase Amzn Mktp Us*11 5942 Amzn.Com/Bill WA 98109",
+                "code": "2575",
+                "amount": "74.27"
+            },
+            {
+                "date": "12/29",
+                "description": "Recurring Card Transaction Siteground Host 7399 Siteground.CO VA 22314",
+                "code": "2575",
+                "amount": "29.99"
+            },
+            {
+                "date": "12/29",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshippo CA 94103",
+                "code": "2575",
+                "amount": "102.05"
+            },
+            {
+                "date": "12/29",
+                "description": "Paypal Inst Xfer Raw Conceptual Printpress",
+                "amount": "2,162.79"
+            },
+            {
+                "date": "12/29",
+                "description": "Wire Interntal Int Paypal Raw Conceptual 1017644882271",
+                "amount": "211.00"
+            },
+            {
+                "date": "12/29",
+                "description": "Docktenamager IN Docktenama Southern Tattle 13218",
+                "amount": "638.89"
+            },
+            {
+                "date": "12/29",
+                "description": "Wire Transfer Yong Kang Jinji",
+                "amount": "13,355.14"
+            },
+            {
+                "date": "12/30",
+                "description": "Card Purchase Buffalo Wild Wl 5813 Opelika AL 36801",
+                "code": "2575",
+                "amount": "67.00"
+            },
+            {
+                "date": "12/30",
+                "description": "Card Purchase Goodtimes Bowl 5812 Auburn AL 36830",
+                "code": "2575",
+                "amount": "150.00"
+            },
+            {
+                "date": "12/30",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshippo CA 94103",
+                "code": "2575",
+                "amount": "107.19"
+            },
+            {
+                "date": "12/30",
+                "description": "Card Purchase Wm Supercenter 5411 Auburn AL 36832",
+                "code": "2575",
+                "amount": "123.40"
+            },
+            {
+                "date": "12/30",
+                "description": "Card Purchase Amzn Mktp Us*t 5942 Amzn.Com/Bill WA 98109",
+                "code": "2575",
+                "amount": "205.10"
+            },
+            {
+                "date": "12/30",
+                "description": "Card Purchase Amzn Mktp Us*s 5942 Amzn.Com/Bill WA 98109",
+                "code": "2575",
+                "amount": "205.10"
+            },
+            {
+                "date": "12/30",
+                "description": "Paypal Inst Xfer Raw Conceptual Pp*magazine",
+                "amount": "20.52"
+            },
+            {
+                "date": "12/30",
+                "description": "Paypal Inst Xfer Raw Conceptual 3756132972",
+                "amount": "20.00"
+            },
+            {
+                "date": "12/30",
+                "description": "Alabama Power Apco EFT Raw Conceptual",
+                "amount": "260.00"
+            },
+            {
+                "date": "12/30",
+                "description": "State Farm R2 07 Slip Matthew Tse",
+                "amount": "350.83"
+            },
+            {
+                "date": "12/30",
+                "description": "Paypal Inst Xfer Raw Conceptual Aliyapusic",
+                "amount": "757.65"
+            },
+            {
+                "date": "12/30",
+                "description": "Paypal Inst Xfer Raw Conceptual Aliyapusic",
+                "amount": "2,451.17"
+            },
+            {
+                "date": "12/30",
+                "description": "Paypal Inst Xfer Raw Conceptual Aliyapusic",
+                "amount": "3,529.68"
+            },
+            {
+                "date": "12/31",
+                "description": "Card Purchase DD Doordash Chn 5812 855-973-1040 CA 94107",
+                "code": "2575",
+                "amount": "18.60"
+            }
+        ]
+    },
+    {
+        "bank_information": {
+            "name": "Regions Bank",
+            "branch": "Auburn Main",
+            "address": "165 N College Street, Auburn, AL 36830"
+        },
+        "account_information": {
+            "account_number": "0229106249",
+            "cycle": "001",
+            "enclosures": "0",
+            "page": "6 of 8"
+        },
+        "customer_information": {
+            "name": "RAW CONCEPTUAL",
+            "address": "1199 S DONAHUE DR, AUBURN AL 36832-5849"
+        },
+        "withdrawals": [
+            {
+                "date": "12/31",
+                "description": "Card Purchase Expert Cleaning 7349 Opelika AL 36801 2575",
+                "amount": "134.00"
+            },
+            {
+                "date": "12/31",
+                "description": "Recurring Card Transaction Postage Goshipp 7399 Httpsgoshippo CA 94103 2575",
+                "amount": "103.47"
+            },
+            {
+                "date": "12/31",
+                "description": "Paypal Inst Xfer Raw Conceptual Lowes.Com",
+                "amount": "703.05"
+            }
+        ],
+        "total_withdrawals": "237,789.32",
+        "fees": [
+            {
+                "date": "12/08",
+                "description": "Wire Transfer Wire Fee",
+                "amount": "15.00"
+            },
+            {
+                "date": "12/09",
+                "description": "Analysis Charge 11-21",
+                "amount": "125.00"
+            },
+            {
+                "date": "12/14",
+                "description": "Wire Transfer Wire Fee",
+                "amount": "15.00"
+            },
+            {
+                "date": "12/16",
+                "description": "Wire Transfer Wire Fee",
+                "amount": "15.00"
+            },
+            {
+                "date": "12/27",
+                "description": "Wire Transfer Wire Fee",
+                "amount": "15.00"
+            }
+        ],
+        "total_fees": "185.00",
+        "checks": [
+            {
+                "date": "12/17",
+                "check_no": "1250",
+                "amount": "1,600.00"
+            },
+            {
+                "date": "12/17",
+                "check_no": "1251",
+                "amount": "175.00"
+            },
+            {
+                "date": "12/13",
+                "check_no": "1351 *",
+                "amount": "7,000.00"
+            },
+            {
+                "date": "12/17",
+                "check_no": "6584 *",
+                "amount": "400.00"
+            },
+            {
+                "date": "12/17",
+                "check_no": "6669",
+                "amount": "3,000.00"
+            },
+            {
+                "date": "12/02",
+                "check_no": "6670",
+                "amount": "450.00"
+            },
+            {
+                "date": "12/01",
+                "check_no": "6678 *",
+                "amount": "729.86"
+            },
+            {
+                "date": "12/03",
+                "check_no": "6679",
+                "amount": "119.24"
+            },
+            {
+                "date": "12/07",
+                "check_no": "6680",
+                "amount": "2,871.23"
+            },
+            {
+                "date": "12/08",
+                "check_no": "6681",
+                "amount": "432.50"
+            },
+            {
+                "date": "12/08",
+                "check_no": "6682",
+                "amount": "5,000.00"
+            },
+            {
+                "date": "12/13",
+                "check_no": "6683",
+                "amount": "1,023.98"
+            },
+            {
+                "date": "12/13",
+                "check_no": "6685 *",
+                "amount": "175.15"
+            },
+            {
+                "date": "12/22",
+                "check_no": "6686",
+                "amount": "636.18"
+            },
+            {
+                "date": "12/22",
+                "check_no": "6687",
+                "amount": "416.09"
+            }
+        ],
+        "total_checks": "24,029.23",
+        "daily_balance_summary": [
+            {
+                "date": "12/01",
+                "balance": "7,828.15"
+            },
+            {
+                "date": "12/02",
+                "balance": "4,477.17"
+            },
+            {
+                "date": "12/03",
+                "balance": "3,535.86"
+            },
+            {
+                "date": "12/06",
+                "balance": "9,651.04"
+            },
+            {
+                "date": "12/07",
+                "balance": "10,443.25"
+            },
+            {
+                "date": "12/08",
+                "balance": "49,235.99"
+            },
+            {
+                "date": "12/09",
+                "balance": "47,273.21"
+            },
+            {
+                "date": "12/10",
+                "balance": "28,270.58"
+            },
+            {
+                "date": "12/13",
+                "balance": "20,803.35"
+            },
+            {
+                "date": "12/14",
+                "balance": "75,625.84"
+            },
+            {
+                "date": "12/15",
+                "balance": "67,316.71"
+            },
+            {
+                "date": "12/16",
+                "balance": "73,492.83"
+            },
+            {
+                "date": "12/17",
+                "balance": "45,006.21"
+            },
+            {
+                "date": "12/20",
+                "balance": "38,002.56"
+            },
+            {
+                "date": "12/21",
+                "balance": "40,694.45"
+            },
+            {
+                "date": "12/22",
+                "balance": "33,892.02"
+            },
+            {
+                "date": "12/23",
+                "balance": "29,589.95"
+            },
+            {
+                "date": "12/24",
+                "balance": "29,239.89"
+            },
+            {
+                "date": "12/27",
+                "balance": "42,668.06"
+            },
+            {
+                "date": "12/28",
+                "balance": "50,799.62"
+            },
+            {
+                "date": "12/29",
+                "balance": "33,294.07"
+            },
+            {
+                "date": "12/30",
+                "balance": "23,301.06"
+            },
+            {
+                "date": "12/31",
+                "balance": "22,342.48"
+            }
+        ]
+    },
+    {},
+    {
+        "Checking Account": {
+            "1": {
+                "description": "Write here the amount shown on statement for ENDING BALANCE",
+                "amount": null
+            },
+            "2": {
+                "description": "Enter any deposits which have not been credited on this statement",
+                "amount": null
+            },
+            "3": {
+                "description": "Total lines 1 & 2",
+                "amount": null
+            },
+            "4": {
+                "description": "Enter total from 4a (column on right side of page)",
+                "amount": null
+            },
+            "5": {
+                "description": "Subtract line 4 from line 3. This should be your checkbook balance",
+                "amount": null
+            }
+        },
+        "4a": {
+            "description": "List any checks, payments, transfers or other withdrawals from your account that are not on this statement",
+            "items": [
+                {
+                    "Check No.": null,
+                    "Amount": null
+                },
+                {
+                    "Check No.": null,
+                    "Amount": null
+                },
+                {
+                    "Check No.": null,
+                    "Amount": null
+                },
+                {
+                    "Check No.": null,
+                    "Amount": null
+                },
+                {
+                    "Check No.": null,
+                    "Amount": null
+                },
+                {
+                    "Check No.": null,
+                    "Amount": null
+                },
+                {
+                    "Check No.": null,
+                    "Amount": null
+                },
+                {
+                    "Check No.": null,
+                    "Amount": null
+                },
+                {
+                    "Check No.": null,
+                    "Amount": null
+                },
+                {
+                    "Check No.": null,
+                    "Amount": null
+                }
+            ],
+            "Total Enter in Line 4 at Left": null
+        }
+    }
+]
