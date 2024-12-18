@@ -1,9 +1,7 @@
+import fitz  , io, os, base64
+
 from pdf2image import convert_from_path
-import fitz  # PyMuPDF
-import io
-import os
 from PIL import Image
-import base64
 
 
 @staticmethod

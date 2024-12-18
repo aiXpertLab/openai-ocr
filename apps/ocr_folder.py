@@ -1,13 +1,14 @@
-import os, json
+import os, json, streamlit as st
 from utils import openaiapi, pdf264
 
 def extract_from_multiple_pages(base64_images, original_filename, output_directory):
     entire_invoice = []
-
-    for base64_image in base64_images:
+    
+    for index, base64_image in enumerate(base64_images, start=1):
+        st.text(f"Processing page {index} of {len(base64_images)}...")
         invoice_json = openaiapi.extract_invoice_data(base64_image)
         if invoice_json is None:
-            print("Error: No JSON data extracted.")
+            print("No JSON data extracted for page {index}.")
         else:
             invoice_data = json.loads(invoice_json)
             entire_invoice.append(invoice_data)
@@ -33,8 +34,8 @@ def main_extract(read_path, write_path):
             extract_from_multiple_pages(base64_images, filename, write_path)
 
 
-read_path= "./data/pdf"
-write_path= "./data/json"
 
 if __name__ == "__main__":
+    read_path= "./data/pdf"
+    write_path= "./data/json"
     main_extract(read_path, write_path)

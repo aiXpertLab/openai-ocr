@@ -1,0 +1,558 @@
+[
+    {},
+    {
+        "transactions": [
+            {
+                "date": "2/1",
+                "check_number": null,
+                "description": "Purchase authorized on 01/31 Paypal *Chargephon 402-935-7733 CA S384103790983484 Card 8159",
+                "deposits_credits": null,
+                "withdrawals_debits": "3.36",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/1",
+                "check_number": null,
+                "description": "Purchase authorized on 02/01 The Home Depot #0635 Union City CA P303401352091348 Card 8159",
+                "deposits_credits": "95.16",
+                "withdrawals_debits": null,
+                "ending_daily_balance": "2,218.18"
+            },
+            {
+                "date": "2/2",
+                "check_number": null,
+                "description": "Nationwide Settlement 0201202464 Team Up Movers Inc.",
+                "deposits_credits": "106.87",
+                "withdrawals_debits": null,
+                "ending_daily_balance": "2,325.05"
+            },
+            {
+                "date": "2/5",
+                "check_number": null,
+                "description": "Purchase authorized on 02/02 Pc *Apple.Com/Bill 402-935-7733 CA S38403341454196 Card 8159",
+                "deposits_credits": null,
+                "withdrawals_debits": "29.99",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/5",
+                "check_number": null,
+                "description": "Recurring Payment authorized on 02/02 Public Storage 080 800-567-0759 CA S38403354148085 Card 8159",
+                "deposits_credits": null,
+                "withdrawals_debits": "197.00",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/5",
+                "check_number": null,
+                "description": "Purchase authorized on 02/02 Tp *Google Youtube 402-935-7733 CA S304033629113092 Card 8159",
+                "deposits_credits": null,
+                "withdrawals_debits": "9.99",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/5",
+                "check_number": null,
+                "description": "Recurring Payment authorized on 02/03 Comcast California 800-Comcast CA S38403412215880 Card 8159",
+                "deposits_credits": null,
+                "withdrawals_debits": "74.00",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/5",
+                "check_number": null,
+                "description": "Online Transfer to Dhaval Everyday Checking xxxxxx1359 Ref #Ib0M5dnfsc on 02/05/24",
+                "deposits_credits": null,
+                "withdrawals_debits": "1,000.00",
+                "ending_daily_balance": "1,014.07"
+            },
+            {
+                "date": "2/7",
+                "check_number": null,
+                "description": "eDeposit in Branch/Store 02/07/24 04:21:27 PM 39015 Courthouse Dr Union City CA 8159",
+                "deposits_credits": "3,815.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": "4,829.07"
+            },
+            {
+                "date": "2/7",
+                "check_number": null,
+                "description": "Cash Withdrawal In Branch 02/07/2024 14:42 PM 39015 Courthouse Dr Union City CA 8159",
+                "deposits_credits": null,
+                "withdrawals_debits": "900.00",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/8",
+                "check_number": null,
+                "description": "< Business to Business ACH Debit - Can Capital Payment 240206 Lai000007043 Dragon Sea Moving Inc",
+                "deposits_credits": null,
+                "withdrawals_debits": "492.31",
+                "ending_daily_balance": "3,436.76"
+            },
+            {
+                "date": "2/8",
+                "check_number": null,
+                "description": "Purchase authorized on 02/08 Wal-Mart Wal-Mart Sup Union City CA P000000724743248 Card 8159",
+                "deposits_credits": null,
+                "withdrawals_debits": "151.96",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/8",
+                "check_number": null,
+                "description": "Online Transfer to Dhaval Everyday Checking xxxxxx1359 Ref #Ib0M6Mpwlok on 02/08/24",
+                "deposits_credits": null,
+                "withdrawals_debits": "2,000.00",
+                "ending_daily_balance": "1,284.80"
+            },
+            {
+                "date": "2/12",
+                "check_number": null,
+                "description": "Mobile Deposit : Ref Number: 911120621822",
+                "deposits_credits": "159.75",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/12",
+                "check_number": null,
+                "description": "Zelle From Xinzhang Dong on 02/12 Ref # Baca3Xv5Zp4Q",
+                "deposits_credits": "83.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": "897.55"
+            },
+            {
+                "date": "2/13",
+                "check_number": null,
+                "description": "< Business to Business ACH Debit - Zach Technology ACH Coll 240212 Team Up Movers",
+                "deposits_credits": null,
+                "withdrawals_debits": "630.00",
+                "ending_daily_balance": "897.55"
+            },
+            {
+                "date": "2/13",
+                "check_number": null,
+                "description": "Deposit Made In A Branch/Store",
+                "deposits_credits": "2,032.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/13",
+                "check_number": null,
+                "description": "Venmo Cashout 240213 1032521439482 Larry Zhou",
+                "deposits_credits": "1,730.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/13",
+                "check_number": null,
+                "description": "Recurring Payment authorized on 02/13 Paypal *Eforms Sub 402-935-7733 FL S464042378989216 Card 8159",
+                "deposits_credits": null,
+                "withdrawals_debits": "39.00",
+                "ending_daily_balance": "4,620.55"
+            },
+            {
+                "date": "2/14",
+                "check_number": null,
+                "description": "Zelle From Maranda Roundtree on 02/14 Ref # Jpm99A9F2pdc",
+                "deposits_credits": "74.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/14",
+                "check_number": null,
+                "description": "Zelle From Maranda Cannon on 02/14 Ref # Jpm99A9A4f24",
+                "deposits_credits": "199.03",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/14",
+                "check_number": null,
+                "description": "Zelle From Maranda Roundtree on 02/14 Ref # Jpm99A96817P",
+                "deposits_credits": "101.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/14",
+                "check_number": null,
+                "description": "Zelle From James Baldwin on 02/14 Ref # Jpm99A964Yv",
+                "deposits_credits": "197.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/14",
+                "check_number": null,
+                "description": "Zelle From Jack Petersen on 02/14 Ref # Jpm99A9Ghfh",
+                "deposits_credits": "23.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/14",
+                "check_number": null,
+                "description": "Zelle From James Baldwin on 02/14 Ref # Jpm99A9YGhkt",
+                "deposits_credits": "149.02",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/14",
+                "check_number": null,
+                "description": "< Business to Business ACH Debit - Can Capital Payment 240213 Lai000007043 Dragon Sea Moving Inc",
+                "deposits_credits": null,
+                "withdrawals_debits": "492.31",
+                "ending_daily_balance": "4,950.30"
+            },
+            {
+                "date": "2/16",
+                "check_number": null,
+                "description": "< Business to Business ACH Debit - Payroll Payroll 240216 16713906 Team Up Movers Inc",
+                "deposits_credits": null,
+                "withdrawals_debits": "410.62",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/16",
+                "check_number": null,
+                "description": "< Business to Business ACH Debit - Payroll Payroll 240216 16713906 Team Up Movers Inc",
+                "deposits_credits": null,
+                "withdrawals_debits": "410.62",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/16",
+                "check_number": null,
+                "description": "< Business to Business ACH Debit - Payroll Payroll 240216 16713906 Team Up Movers Inc",
+                "deposits_credits": null,
+                "withdrawals_debits": "410.63",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/16",
+                "check_number": null,
+                "description": "< Business to Business ACH Debit - Payroll Payroll 240216 16713906 Team Up Movers Inc",
+                "deposits_credits": null,
+                "withdrawals_debits": "684.37",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/16",
+                "check_number": null,
+                "description": "< Business to Business ACH Debit - Payroll Payroll 240216 16713906 Team Up Movers Inc",
+                "deposits_credits": null,
+                "withdrawals_debits": "684.37",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/16",
+                "check_number": null,
+                "description": "< Business to Business ACH Debit - Payroll Payroll 240216 16713906 Team Up Movers Inc",
+                "deposits_credits": null,
+                "withdrawals_debits": "684.38",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/16",
+                "check_number": null,
+                "description": "< Business to Business ACH Debit - Payroll Payroll 240216 16713906 Team Up Movers Inc",
+                "deposits_credits": null,
+                "withdrawals_debits": "821.25",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/16",
+                "check_number": null,
+                "description": "< Business to Business ACH Debit - Payroll Payroll 240216 16713906 Team Up Movers Inc",
+                "deposits_credits": null,
+                "withdrawals_debits": "821.25",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/16",
+                "check_number": null,
+                "description": "< Business to Business ACH Debit - Payroll Payroll 240216 16713906 Team Up Movers Inc",
+                "deposits_credits": null,
+                "withdrawals_debits": "821.25",
+                "ending_daily_balance": "-798.44"
+            }
+        ]
+    },
+    {
+        "bank_name": "Wells Fargo",
+        "date": "February 29, 2024",
+        "page": "3 of 5",
+        "transactions": [
+            {
+                "date": "2/20",
+                "description": "Overdraft Fee for a Transaction Posted on 02/16",
+                "check_number": null,
+                "deposits_credits": null,
+                "withdrawals_debits": "35.00",
+                "ending_daily_balance": "821.25"
+            },
+            {
+                "date": "2/20",
+                "description": "Payroll Payroll 240216 161739106 Team Up Moves Inc",
+                "check_number": null,
+                "deposits_credits": "1,000.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/20",
+                "description": "Zelle From Zhen FuLi on 02/17 Ref # Bacoupchy2Cm",
+                "check_number": null,
+                "deposits_credits": "1.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/20",
+                "description": "Venmo Cashout 424107103586346337 Larry Zhou",
+                "check_number": null,
+                "deposits_credits": "1,471.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/20",
+                "description": "Online Transfer From 201 T, Tax & Accounting Service Inc Business Checking xxxxxx1126 Ref #Ib0M9rch42n on 02/17/24",
+                "check_number": null,
+                "deposits_credits": "2,000.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": "2,638.56"
+            },
+            {
+                "date": "2/21",
+                "description": "Zelle From Dana Fink on 02/21 Ref #Jpm9A9yscDna",
+                "check_number": null,
+                "deposits_credits": "249.99",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/21",
+                "description": "Zelle From Marsha Mullenix on 02/21 Ref #Jpm9A9qrsd8",
+                "check_number": null,
+                "deposits_credits": "202.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/21",
+                "description": "Zelle From Alma Wells on 02/21 Ref #Jpm9A9ps9ic",
+                "check_number": null,
+                "deposits_credits": "286.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/21",
+                "description": "Zelle From Marsha Mullenix on 02/21 Ref #Jpm9A9sv4D1",
+                "check_number": null,
+                "deposits_credits": "299.99",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/21",
+                "description": "Purchase authorized on 02/18 Pg*Copac 8099le 402-935-7733 CA S3840497910615 Card 8159",
+                "check_number": null,
+                "deposits_credits": null,
+                "withdrawals_debits": "1.99",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/21",
+                "description": "Business to Business ACH Debit - Can Capital Payment 240220 8a100000743 Dragon Sea Moving Inc",
+                "check_number": null,
+                "deposits_credits": null,
+                "withdrawals_debits": "492.31",
+                "ending_daily_balance": "3,182.24"
+            },
+            {
+                "date": "2/23",
+                "description": "Zelle From Alma Wells on 02/23 Ref #Jpm9A9wm7m1",
+                "check_number": null,
+                "deposits_credits": "499.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/23",
+                "description": "Zelle From Alma Wells on 02/23 Ref #Jpm9A9w9xq3",
+                "check_number": null,
+                "deposits_credits": "501.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/23",
+                "description": "Venmo Fashow 240223 1032718955927 Larry Zhou",
+                "check_number": null,
+                "deposits_credits": "3,982.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": "8,164.24"
+            },
+            {
+                "date": "2/26",
+                "description": "Zelle From Beloved Home Staging and Designs on 02/26 Ref # Bacoc8a9wmP Staging Help",
+                "check_number": null,
+                "deposits_credits": null,
+                "withdrawals_debits": "278.00",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/26",
+                "description": "Purchase authorized on 02/23 Paypal *Auctane Ll 402-935-7733 CA S384052553492497 Card 8159",
+                "check_number": null,
+                "deposits_credits": null,
+                "withdrawals_debits": "399.99",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/26",
+                "description": "Money Transfer authorized on 02/25 Paypal *Jessica967 VISA Direct CA 546045847517163 Card 8159",
+                "check_number": null,
+                "deposits_credits": null,
+                "withdrawals_debits": "514.80",
+                "ending_daily_balance": "7,527.45"
+            },
+            {
+                "date": "2/27",
+                "description": "Recurring Payment authorized on 02/26 Paypal *Mailchimp 402-935-7733 CA S304055732589110 Card 8159",
+                "check_number": null,
+                "deposits_credits": null,
+                "withdrawals_debits": "59.99",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/27",
+                "description": "Purchase authorized on 02/26 Pg*Copac Youtube 402-935-7733 CA S304055884514825 Card 8159",
+                "check_number": null,
+                "deposits_credits": null,
+                "withdrawals_debits": "49.99",
+                "ending_daily_balance": "7,462.46"
+            },
+            {
+                "date": "2/28",
+                "description": "Business to Business ACH Debit - Can Capital Payment 240227 8a100000743 Dragon Sea Moving Inc",
+                "check_number": null,
+                "deposits_credits": null,
+                "withdrawals_debits": "492.31",
+                "ending_daily_balance": "7,170.15"
+            },
+            {
+                "date": "2/29",
+                "description": "Online Transfer From Tlc, Tax & Accounting Service Inc Business Checking xxxxxx0876 Ref #Ib0Mdmtxus on 02/29/24",
+                "check_number": null,
+                "deposits_credits": "13,000.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/29",
+                "description": "Online Transfer From Zhou L Everyday Checking xxxxxx1359 Ref #Ib0Mdmx5n on 02/29/24",
+                "check_number": null,
+                "deposits_credits": "3,000.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/29",
+                "description": "Online Transfer From On Time Safe Trucking LLC Business Checking xxxxxx8711 Ref #Ib0Mdmtqmn on 02/29/24",
+                "check_number": null,
+                "deposits_credits": "1,000.00",
+                "withdrawals_debits": null,
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/29",
+                "description": "Purchase authorized on 02/26 Pg*Apple.Com/Bill 402-935-7733 CA S304052516816191 Card 8159",
+                "check_number": null,
+                "deposits_credits": null,
+                "withdrawals_debits": "149.99",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/29",
+                "description": "Purchase authorized on 02/26 Pg*Apple.Com/Bill 402-935-7733 CA S3840557601895 Card 8159",
+                "check_number": null,
+                "deposits_credits": null,
+                "withdrawals_debits": "3.99",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/29",
+                "description": "Online Transfer Ref #Ib0Mdj7lm to Business Card Xxxxxxxxxxx2377 on 02/29/24",
+                "check_number": null,
+                "deposits_credits": null,
+                "withdrawals_debits": "3,000.00",
+                "ending_daily_balance": null
+            },
+            {
+                "date": "2/29",
+                "description": "Online Transfer to Zhou L Everyday Checking xxxxxx1359 Ref #Ib0Mdmtx on 02/29/24",
+                "check_number": null,
+                "deposits_credits": null,
+                "withdrawals_debits": "20,000.00",
+                "ending_daily_balance": "1,016.17"
+            }
+        ],
+        "ending_balance": "1,016.17",
+        "totals": {
+            "deposits_credits": "35,718.66",
+            "withdrawals_debits": "37,019.19"
+        },
+        "monthly_service_fee_summary": {
+            "fee_period": "02/01/2024 - 02/29/2024",
+            "standard_monthly_service_fee": "10.00",
+            "you_paid": "0.00"
+        }
+    },
+    {
+        "Monthly service fee summary": {
+            "How to avoid the monthly service fee": [
+                "Have any ONE of the following each fee period",
+                "Average ledger balance",
+                "Minimum daily balance"
+            ],
+            "Minimum required": {
+                "Average ledger balance": "$1,000.00",
+                "Minimum daily balance": "$500.00"
+            },
+            "This fee period": {
+                "Average ledger balance": "$3,058.00",
+                "Minimum daily balance": "-$798.44"
+            }
+        },
+        "Account transaction fees summary": [
+            {
+                "Service charge description": "Cash Deposited ($)",
+                "Units used": 0,
+                "Units included": 5000,
+                "Excess units": 0,
+                "Service charge per excess units ($)": "0.0030",
+                "Total service charge ($)": "0.00"
+            },
+            {
+                "Service charge description": "Transactions",
+                "Units used": 28,
+                "Units included": 100,
+                "Excess units": 0,
+                "Service charge per excess units ($)": "0.50",
+                "Total service charge ($)": "0.00"
+            }
+        ],
+        "Total service charges": "$0.00",
+        "Important account information": "NEW YORK CITY CUSTOMERS ONLY -- Pursuant to New York City regulations, we request that you contact us at 1-800-TO WELLS (1-800-869-3557) to share your language preference."
+    },
+    {}
+]
