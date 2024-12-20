@@ -1,0 +1,286 @@
+                   Central Bank Operations - DAC02
+                   P.O. Box 27131
+                   Raleigh, NC 27611-7131
+                                                              IM EST
+                                                              829
+                03547
+                EASTERN STAR INC
+                6360 PLANTATION CENTER DR                                                           Your Account(s) At A Glance
+                RALEIGH NC 27616-5186                                                               Checking
+                                                                                                    Balance            108,870.47+
+         Statement Period: February 1 , 2023    Thru February 28, 2023                       Account Number :      006031666806
+                          Basic Business Checking
+                          Account Number : 006031666806                                             Enclosures In Statement:  0
+         Beginning Balance                          84,923.76+        Statement Period Days                                   28
+                 0 Deposits                                0.00       Average Ledger Balance                        69,819.00+
+                32 Other Credits                   168,158.45+
+                67 Checks                          114,124.91-
+                20 Other Debits                     30,086.83-
+         Monthly Service Charge                            0.00
+         Ending Balance                            108,870.47+
+         Other Credits To Your Account
+         Date      Description                                                                                             Amount
+         02-01 Merchant Bnkcd Deposit ********4888                                                                     4,243.38
+         02-02 Merchant Bnkcd Deposit ********4888                                                                     4,259.22
+         02-03 Merchant Bnkcd Deposit ********4888                                                                     4,939.95
+         02-06 Merchant Bnkcd Deposit ********4888                                                                        404.46
+         02-06 Merchant Bnkcd Deposit ********4888                                                                     7,722.28
+         02-06 Merchant Bnkcd Deposit ********4888                                                                     8,027.20
+         02-07 UberUSA6787Edi Paymnt Q5V7Awowdhj7D2T                                                                   2,141.74
+         02-07 Merchant Bnkcd Deposit ********4888                                                                     9,643.83
+         02-08 Merchant Bnkcd Deposit ********4888                                                                     4,348.99
+         02-09 Merchant Bnkcd Deposit ********4888                                                                     2,944.14
+         02-10 Merchant Bnkcd Deposit ********4888                                                                     4,420.46
+         02-13 Merchant Bnkcd Deposit ********4888                                                                        364.60
+         02-13 Merchant Bnkcd Deposit ********4888                                                                     6,360.17
+         02-13 Merchant Bnkcd Deposit ********4888                                                                    12,723.23
+         02-14 UberUSA6787Edi Paymnt Ye6Dqkq08Vxn2Fi                                                                   2,241.76
+         02-14 Merchant Bnkcd Deposit ********4888                                                                        146.66
+         02-15 Merchant Bnkcd Deposit ********4888                                                                    11,559.02
+         02-16 Merchant Bnkcd Deposit ********4888                                                                     3,421.75
+         02-17 Merchant Bnkcd Deposit ********4888                                                                     4,995.41
+         02-21 Merchant Bnkcd Deposit ********4888                                                                        654.67
+         02-21 Merchant Bnkcd Deposit ********4888                                                                     4,687.67
+         02-21 Merchant Bnkcd Deposit ********4888                                                                     7,329.04
+         02-21 Merchant Bnkcd Deposit ********4888                                                                    15,420.94
+         02-22 UberUSA6787Edi Paymnt Uycsdyq*7Ced481                                                                   3,264.35
+         02-22 Merchant Bnkcd Deposit ********4888                                                                     3,168.90
+         02-23 Merchant Bnkcd Deposit ********4888                                                                     3,702.17
+         02-24 Merchant Bnkcd Deposit ********4888                                                                     5,402.93
+                    Direct Customer Inquiry Calls To
+                    Personal 1-888-323-4732
+                    Business 1-866-322-4249                                                                         Page 1 of 11
+         Statement Period: February 1 , 2023    Thru February 28, 2023                       Account Number :      006031666806
+         Other Credits To Your Account
+         Date      Description                                                                                             Amount
+         02-27 Merchant Bnkcd Deposit ********4888                                                                        440.32
+         02-27 Merchant Bnkcd Deposit ********4888                                                                     7,368.90
+         02-27 Merchant Bnkcd Deposit ********4888                                                                    15,249.92
+         02-28 UberUSA6787Edi Paymnt Tpih97Iw3Sx1Mib                                                                   2,791.17
+         02-28 Merchant Bnkcd Deposit ********4888                                                                     3,769.22
+                   Total                                                                                            168,158.45
+         Checks Paid From Your Account
+          Check No. Date              Amount          Check No. Date             Amount          Check No. Date             Amount
+             2615     02-01          520.07             2713     02-07       3,500.00               2741    02-21       1,000.00
+             2616     02-21       4,213.00              2714     02-14       4,623.31               2742    02-24          599.12
+             2617     02-08       4,000.00              2715     02-09       1,068.92               2743    02-24          104.62
+             2620* 02-01          4,617.00              2716     02-08          355.00              2744    02-28       1,642.00
+             2623* 02-07          3,000.00              2717     02-14       5,601.25               2745    02-28       1,144.00
+             2624     02-02       1,200.39              2718     02-10           59.04              2746    02-27          440.44
+             2625     02-02          819.43             2719     02-21       2,049.00               2747    02-27          704.73
+             2626     02-03          132.22             2720     02-21       1,843.25               2748    02-27          200.00
+             2627     02-03          220.90             2721     02-14       1,333.50               2796* 02-01         5,993.00
+             2628     02-06          240.11             2722     02-13          682.21              2797    02-02          510.15
+             2629     02-02          273.71             2723     02-10       4,000.00               2801* 02-08            272.90
+             2630     02-10       3,924.61              2724     02-15       2,756.00               2802    02-06          200.00
+             2631     02-03       4,500.00              2725     02-15          900.00              2803    02-09          250.00
+             2632     02-07       2,000.00              2729* 02-15          8,339.05             20255* 02-07          2,770.50
+             2633     02-03          656.26             2730     02-15          307.21            20256     02-06       2,627.50
+             2634     02-07          259.00             2731     02-17          115.08            20257     02-06       2,157.75
+             2635     02-06          450.00             2732     02-21          200.00            20258     02-06          770.91
+             2636     02-06       4,000.00              2733     02-21          842.00            20259     02-01       2,770.50
+             2637     02-07          697.00             2734     02-21          777.79            20262* 02-02          2,262.85
+             2638     02-07       2,189.00              2736* 02-21          1,103.98             20266* 02-07             394.09
+             2696* 02-02          2,250.00              2738* 02-27             218.50            20267     02-07       2,770.50
+             2711* 02-06          1,210.28              2739     02-21          274.33
+             2712     02-06       1,790.31              2740     02-21          426.64
+          *Prior Check Number(s) Not Included or Out of Sequence.
+         Other Debits From Your Account
+         Date      Description                                                                                             Amount
+         02-01 MrchntPmnt Proc Settlement ***********0655                                                                 654.59
+         02-01 USFoodservice Vendor Pay ***********8000                                                                1,492.44
+         02-03 Merchant Bnkcd Deposit ********4888                                                                     2,535.61
+         02-03 Irs Usataxpymt ***********9042                                                                          5,636.61
+         02-06 Triangle Account 0203 ********6806                                                                         100.00
+         02-07 POSSig02/05Visa #6369 Samsclub.Com 888-746-7726 Ar                                                          90.59
+         02-08 USFoodservice Vendor Pay ***********8000                                                                1,811.81
+         02-13 POSSig02/11Visa #6369 Paypal *spotifyusai 402-935-7733 Ny                                                   17.15
+         02-15 NCDeptRevenueTaxPymt***********9296                                                                        189.00
+         02-15 USFoodservice Vendor Pay ***********8000                                                                1,825.06
+         02-21 POSSig02/19Visa #6369 Sams Membership 888-433-7267 Ar                                                      110.00
+         02-21 Withdrawal 1000 High House Cary              NCA20702-21 06031666806                                       500.00
+         02-21 Withdrawal 1000 High House Cary              NCA20702-21 06031666806                                       500.00
+         02-21 Dominion Energy Draft *********5265                                                                        218.77
+         02-21 Spectrum Spectrum ***8582                                                                                  413.26
+         02-21 WakeCountyEpay***********2922                                                                           1,303.69
+         02-21 NCDeptRevenueTaxPymt***********9278                                                                     9,451.79
+         02-22 USFoodservice Vendor Pay ***********8000                                                                1,917.61
+         02-23 Irs Usataxpymt ***********9472                                                                          1,233.86
+         02-24 Spectrum Spectrum ***2047                                                                                   84.99
+                   Total                                                                                              30,086.83
+         Daily Balance Summary
+          Date                    Balance             Date                   Balance             Date                    Balance
+          02-01               73,119.54+              02-10              54,013.86+              02-22              76,518.10+
+          02-02               70,062.23+              02-13              72,762.50+              02-23              78,986.41+
+          02-03               61,320.58+              02-14              63,592.86+              02-24              83,600.61+
+          02-06               63,927.66+              02-15              60,835.56+              02-27             105,096.08+
+          02-07               58,042.55+              02-16              64,257.31+              02-28             108,870.47+
+          02-08               55,951.83+              02-17              69,137.64+
+          02-09               57,577.05+              02-21              72,002.46+
+                                                                                                                    Page 2 of 11
+                                                                                                                03547
+               Statement Period: February 1 , 2023                              Thru February 28, 2023                                                      Account Number :                     006031666806
+                                                            FOLLOW THESE EASY STEPS TO BALANCE YOUR CHECKING ACCOUNT
+               1.   Write here the ending balance shown
+                    on the front of this statement.                                                               1        $                                            B. Outstanding Checks/Debits
+               2.   Add deposits not credited in this
+                    statement. (Use table A.)                                                                     2      +$                                             Number                 Amount
+               3.   Total of lines 1 and 2.
+               4.   Checks and other debits outstanding                                                           3      =$
+                    not charged to your account.
+                    (Use table B.)                                                                                4      - $
+               5.   Subtract line 4 from line 3.
+                    This should be your current                                                                   5      =$
+                    checkbook balance.                                                                         A. Deposits/Credits
+                 Note: If your statement does not balance,                                       Date                           Amount
+                 please check to be sure you have entered in
+                 your check register all automatic transactions
+                 (service charges, advances, payments, drafts
+                 etc.) shown on the front of your statement.
+                 Please notify the Bank promptly of any
+                 discrepancy in your account statement.
+                                                                                                 Total Amount                                                         Total Amount
+               How to Compute Interest Charges on Your Line of Credit.                                       Wefigure the interest charge on your account by applying the periodic rate to
+               your "average daily balance" (including current transactions). To get the "average daily balance," we first determine the daily balance of
+               your Account each day. We take the beginning balance of your account each day, add any new advances and charges, and subtract any new
+               payments or credits and any unpaid interest charges, credit insurance premiums, late charges and other charges that have been posted to
+               the account. These calculations give us the daily balance. Then, we add up all the daily balances for the billing cycle and divide the total by
+               the number of days in the billing cycle. This gives us the "average daily balance." Next, we multiply the "average daily balance" by the
+               daily periodic rate applicable to your account. The daily periodic rate is determined by dividing the Annual Percentage Rate by the number
+               of days in the year. That result is then multiplied by the number of days in the billing cycle to obtain the monthly interest charge. Automatic
+               payment debits are posted to your account after your "average daily balance" is calculated. Interest charges and any credit insurance
+               premiums that accrue during each billing cycle are added to the balance of your account on the last day of the billing cycle prior to the
+               calculation of your minimum payment.
+               Variable Rate.                            Unless the terms of your revolving line of credit specify that the rate is fixed, your daily periodic rate and Annual
+               Percentage Rate are variable rates subject to change each month.
+               What To Do If You Think You Find A Mistake On Your Statement (Consumer Accounts Only).                                                                   If you think there is an error on your
+               statement, write to us at the address shown on page one of your statement. In your letter, give us the following information: (1) Account
+               information: Your name and account number. (2) Dollar amount: The dollar amount of the suspected error. (3) Description of Problem: If
+               you think there is an error on your bill, describe what you believe is wrong and why you believe it is a mistake. You must contact us within
+               60 days after the error appeared on your statement. You must notify us of any potential errors in writing. You may call us, but if you do we
+               are not required to investigate any potential errors and you may have to pay the amount in question. While we investigate whether or not
+               there has been an error, the following are true: (1) We cannot try to collect the amount in question, or report you as delinquent on that
+               amount; (2) The charge in question may remain on your statement, and we may continue to charge you interest on that amount. But, if we
+               determine that we made a mistake, you will not have to pay the amount in question or any interest or other fees related to that amount; (3)
+               While you do not have to pay the amount in question, you are responsible for the remainder of your balance; (4) We can apply any unpaid
+               amount against your credit limit.
+               Your Rights If You Are Dissatisfied With Your Credit Card Purchases (Consumer Accounts Only).                                                         This section applies if you access your
+               line of credit using a credit card. If you are dissatisfied with the goods or services that you have purchased with your credit card, and you
+               have tried in good faith to correct the problem with the merchant, you may have the right not to pay the remaining amount due on the
+               purchase. To use this right, all of the following must be true: (1) The purchase must have been made in your home state or within 100 miles
+               of your current mailing address, and the purchase price must have been more than $50. (Note: Neither of these are necessary if your
+               purchase was based on an advertisement we mailed to you, or if we own the company that sold you the goods or services.) (2) You must
+               have used your credit card for the purchase. Purchases made with cash advances from an ATM or with a check that accesses your credit
+               card account do not qualify. (3) You must not yet have fully paid for the purchase. If all of the criteria above are met and you are still
+               dissatisfied with the purchase, contact us in writing at Credit Card Center-RVA01, P.O. Box 1580, Roanoke, VA 24007-9903; or by calling our
+               Customer Contact Center at 1.888.323.4732. If you call, we may require you to provide us with a written statement concerning your
+               dissatisfaction with the purchase. While we investigate, the same rules apply to the disputed amount as discussed above. After we finish
+               our investigation, we will tell you our decision. At that point, if we think you owe an amount and you do not pay, we may report you as
+               delinquent.
+               Liability for Unauthorized Use of Credit Card (Consumer Accounts Only).                                              If you notice the loss or theft of your credit card or a possible
+               unauthorized use of your card, you should write to us immediately at: Credit Card Center-RVA01, P.O. Box 1580, Roanoke, VA 24007-9903, or
+               call us at our Customer Contact Center, 1.888.323.4732. You will not be liable for any unauthorized use that occurs after you notify us. You
+               may, however, be liable for unauthorized use that occurs before your notice to us. In any case, your liability will not exceed $50.
+               Credit History Errors.                           If you believe we have inaccurately reported information about your account history to a consumer reporting
+               agency, please notify us in writing at the Bank address stated on page one of your statement.
+               Prompt Crediting of Payments.                                To receive credit for a payment on the date we receive the payment, we must receive your payment
+               prior to 5:00 p.m. on a Bank business day (any day except Saturday, Sunday or a bank holiday). If paying at a branch or by mail, then
+               payments must include the payment coupon. In addition, if paying by mail, payment must be mailed to the specific address furnished by the
+               Bank. Payments received at any of our ATMs; payments received on a business day after 5:00 p.m.; payments received at a branch or by
+               mail without a coupon; and, payments received on a day that is not a Bank business day, will be credited to your account no later than the
+               next Bank business day.
+               Preauthorized Deposits.                          If direct deposits are made to your account at least every 60 days by the same person or entity, you can call
+               us at the telephone number shown on page one of your statement to find out whether the deposit has been made.
+                                                                                                                                                                                                    Page 3 of 11
+          Statement Period: February 1 , 2023         Thru February 28, 2023                            Account Number :         006031666806
+          In Case of Errors or Questions About Your Electronic Transfers (Consumer Accounts Only).            If you think your statement or receipt is
+          wrong or if you need more information about a transfer on a statement or receipt, telephone or write us as soon as you can at the telephone
+          number or address which appears on page one of your statement. We must hear from you no later than 60 days after we sent you the
+          FIRST statement on which the error or problem appeared. You must: (1) tell us your name and account number; (2) describe the error or the
+          transfer you are unsure about (including the date it occurred), and explain as clearly as you can why you believe it is in error or why you
+          need more information; and (3) tell us the dollar amount of the suspected error. We will investigate your complaint and correct any error
+          promptly. We may take up to 45 days to complete our investigation (90 days for transfers initiated outside the U.S. or resulting from
+          point-of-sale debit-card transactions). If we take more than 10 business days (5 days for certain Visa® Check Card transactions; 20 days for
+          certain new accounts), we will recredit your account for the amount you think is in error, so that you will have the use of the money during
+          the time it takes to complete our investigation.
+          Credit Limit.           When you make a payment on your account, we may, at our option, delay advancing additional funds from your line of
+          credit in reliance on that payment until we confirm that your payment has been fully and finally collected. If we placed a hold on a credited
+          payment pending our final determination of collectability, the "Available Credit" amount on the front page of this statement will not reflect this
+          payment and funds in the amount of the hold will not be available to you for subsequent advances until we confirm that your payment has
+          been fully and finally collected.
+          Interest Charge.         The term "Interest Charge" on your statement has the same meaning as the term "Finance Charge" that may appear
+          in your revolving line of credit documents.
+                                                                                                                                   Page 4 of 11
+                                                                       03547
+                    Central Bank Operations - DAC02                    EASTERN STAR INC
+                    P.O. Box 27131                                     6360 PLANTATION CENTER DR
+                    Raleigh, NC 27611-7131                             RALEIGH NC 27616-5186
+          Statement Period: February 1 , 2023      Thru February 28, 2023                           Account Number :       006031666806
+          Chk# 2615                                        $520.07           Chk# 2616                                      $4,213.00
+          Chk# 2617                                     $4,000.00            Chk# 2620                                      $4,617.00
+          Chk# 2623                                     $3,000.00            Chk# 2624                                      $1,200.39
+          Chk# 2625                                        $819.43           Chk# 2626                                         $132.22
+          Chk# 2627                                        $220.90           Chk# 2628                                         $240.11
+                                                                                                                             Page 5 of 11
+                    Central Bank Operations - DAC02                    EASTERN STAR INC
+                    P.O. Box 27131                                     6360 PLANTATION CENTER DR
+                    Raleigh, NC 27611-7131                             RALEIGH NC 27616-5186
+          Statement Period: February 1 , 2023      Thru February 28, 2023                           Account Number :       006031666806
+          Chk# 2629                                        $273.71           Chk# 2630                                      $3,924.61
+          Chk# 2631                                     $4,500.00            Chk# 2632                                      $2,000.00
+          Chk# 2633                                        $656.26           Chk# 2634                                         $259.00
+          Chk# 2635                                        $450.00           Chk# 2636                                      $4,000.00
+          Chk# 2637                                        $697.00           Chk# 2638                                      $2,189.00
+                                                                                                                             Page 6 of 11
+                                                                       03547
+                    Central Bank Operations - DAC02                    EASTERN STAR INC
+                    P.O. Box 27131                                     6360 PLANTATION CENTER DR
+                    Raleigh, NC 27611-7131                             RALEIGH NC 27616-5186
+          Statement Period: February 1 , 2023      Thru February 28, 2023                           Account Number :       006031666806
+          Chk# 2696                                     $2,250.00            Chk# 2711                                      $1,210.28
+          Chk# 2712                                     $1,790.31            Chk# 2713                                      $3,500.00
+          Chk# 2714                                     $4,623.31            Chk# 2715                                      $1,068.92
+          Chk# 2716                                        $355.00           Chk# 2717                                      $5,601.25
+          Chk# 2718                                          $59.04          Chk# 2719                                      $2,049.00
+                                                                                                                             Page 7 of 11
+                    Central Bank Operations - DAC02                    EASTERN STAR INC
+                    P.O. Box 27131                                     6360 PLANTATION CENTER DR
+                    Raleigh, NC 27611-7131                             RALEIGH NC 27616-5186
+          Statement Period: February 1 , 2023      Thru February 28, 2023                           Account Number :       006031666806
+          Chk# 2720                                     $1,843.25            Chk# 2721                                      $1,333.50
+          Chk# 2722                                        $682.21           Chk# 2723                                      $4,000.00
+          Chk# 2724                                     $2,756.00            Chk# 2725                                         $900.00
+          Chk# 2729                                     $8,339.05            Chk# 2730                                         $307.21
+          Chk# 2731                                        $115.08           Chk# 2732                                         $200.00
+                                                                                                                             Page 8 of 11
+                                                                       03547
+                    Central Bank Operations - DAC02                    EASTERN STAR INC
+                    P.O. Box 27131                                     6360 PLANTATION CENTER DR
+                    Raleigh, NC 27611-7131                             RALEIGH NC 27616-5186
+          Statement Period: February 1 , 2023      Thru February 28, 2023                           Account Number :       006031666806
+          Chk# 2733                                        $842.00           Chk# 2734                                         $777.79
+          Chk# 2736                                     $1,103.98            Chk# 2738                                         $218.50
+          Chk# 2739                                        $274.33           Chk# 2740                                         $426.64
+          Chk# 2741                                     $1,000.00            Chk# 2742                                         $599.12
+          Chk# 2743                                        $104.62           Chk# 2744                                      $1,642.00
+                                                                                                                             Page 9 of 11
+                    Central Bank Operations - DAC02                    EASTERN STAR INC
+                    P.O. Box 27131                                     6360 PLANTATION CENTER DR
+                    Raleigh, NC 27611-7131                             RALEIGH NC 27616-5186
+          Statement Period: February 1 , 2023      Thru February 28, 2023                           Account Number :       006031666806
+          Chk# 2745                                     $1,144.00            Chk# 2746                                         $440.44
+          Chk# 2747                                        $704.73           Chk# 2748                                         $200.00
+          Chk# 2796                                     $5,993.00            Chk# 2797                                         $510.15
+          Chk# 2801                                        $272.90           Chk# 2802                                         $200.00
+          Chk# 2803                                        $250.00           Chk# 20255                                     $2,770.50
+                                                                                                                            Page 10 of 11
+                                                                       03547
+                    Central Bank Operations - DAC02                    EASTERN STAR INC
+                    P.O. Box 27131                                     6360 PLANTATION CENTER DR
+                    Raleigh, NC 27611-7131                             RALEIGH NC 27616-5186
+          Statement Period: February 1 , 2023      Thru February 28, 2023                           Account Number :       006031666806
+          Chk# 20256                                    $2,627.50            Chk# 20257                                     $2,157.75
+          Chk# 20258                                       $770.91           Chk# 20259                                     $2,770.50
+          Chk# 20262                                    $2,262.85            Chk# 20266                                        $394.09
+          Chk# 20267                                    $2,770.50
+                                                                                                                            Page 11 of 11

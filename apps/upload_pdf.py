@@ -1,11 +1,14 @@
 import streamlit as st, os, json
-from utils import openaiapi, pdf264
+from utils import openaiapi, pdf264, convertGhostscript
 from apps import ocr_folder
 
-def streamlit_upload_and_process(upload_path, write_path):
+def streamlit_upload_and_process(upload_path, write_path, text_image="image"):
     
     # Streamlit file uploader
-    uploaded_file = st.file_uploader("Upload a PDF file", type=["pdf"])
+    if text_image == "text":
+        uploaded_file = st.file_uploader("Upload a Text PDF", type=["pdf"])
+    else:
+        uploaded_file = st.file_uploader("Upload a Image PDF file", type=["pdf"])
     
     if uploaded_file is not None:
         with st.spinner('processing...'):
@@ -13,11 +16,13 @@ def streamlit_upload_and_process(upload_path, write_path):
             temp_file_path = os.path.join(upload_path, uploaded_file.name)
             with open(temp_file_path, "wb") as temp_file:
                 temp_file.write(uploaded_file.getbuffer())
-            
-            # Process the uploaded file
-            base64_images = pdf264.pdf_to_base64_images(temp_file_path)
-            output_filename = ocr_folder.extract_from_multiple_pages(base64_images, uploaded_file.name, write_path)
-            
+
+            if text_image == "text":
+                output_filename = convertGhostscript.convert_text_pdf(temp_file_path, write_path)
+            else:
+                base64_images = pdf264.pdf_to_base64_images(temp_file_path)
+                output_filename = ocr_folder.extract_from_multiple_pages(base64_images, uploaded_file.name, write_path)
+        
         st.success(f"File processed successfully. Extracted data saved at: {output_filename}")
         st.download_button(
             label="Download Extracted Data",

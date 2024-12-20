@@ -6,12 +6,21 @@ def extract_from_multiple_pages(base64_images, original_filename, output_directo
     
     for index, base64_image in enumerate(base64_images, start=1):
         st.text(f"Processing page {index} of {len(base64_images)}...")
-        invoice_json = openaiapi.extract_invoice_data(base64_image)
-        if invoice_json is None:
-            print("No JSON data extracted for page {index}.")
-        else:
+        # invoice_json = openaiapi.extract_invoice_data(base64_image)
+        # if invoice_json is None:
+        #     print("No JSON data extracted for page {index}.")
+        # else:
+        #     invoice_data = json.loads(invoice_json)
+        #     entire_invoice.append(invoice_data)
+
+        try:
+            invoice_json = openaiapi.extract_invoice_data(base64_image)
             invoice_data = json.loads(invoice_json)
             entire_invoice.append(invoice_data)
+        except json.JSONDecodeError as e:
+            print(f"JSONDecodeError on page {index}: {e}")
+            continue  # Skip to the next image
+
 
     # Ensure the output directory exists
     os.makedirs(output_directory, exist_ok=True)
