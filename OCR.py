@@ -1,26 +1,15 @@
 import streamlit as st
+import utils.streamlit_components
+utils.streamlit_components.streamlit_ui('🛸ai OCR')
 
-from streamlit_extras.stateful_button import button
-import apps.ocr_folder
-import apps.upload_pdf
-from utils import (streamlit_components, )
-import apps
+import apps.llm.models
 
-streamlit_components.streamlit_ui('🐬🦣 OCR 🍃🦭')
-# -----------------------------------------------------------------------------------------------------------
-tab1, tab2, tab3, tab4, tab5 = st.tabs(["OCR Upload File", "OCR Email", "OCR Cloud", "", ""])
+if 'ai_model' not in st.session_state:
+    st.session_state.ai_model = "OpenAI"  # Initial value
 
-read_path   = "./data/pdf"
-write_path  = "./data/json"
-upload_path = "./data/upload"
+ai_model2 = apps.llm.models.pick_model()
 
-with tab1:    
-    if button("Upload PDF to process?", key='coa42'):
-        apps.upload_pdf.streamlit_upload_and_process(upload_path=upload_path, write_path=write_path)
+# if ai_model != st.session_state.ai_model:
+#     st.session_state.ai_model = ai_model
 
-
-
-with tab2:
-    if button("OCR from email folder?", key='coa41'):
-        apps.ocr_folder.main_extract(read_path, write_path)
-
+st.info(f"You are using: {ai_model2}")
