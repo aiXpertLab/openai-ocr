@@ -1,0 +1,19 @@
+ Volume in drive B is code
+ Volume Serial Number is CCD9-0CA8
+
+ Directory of B:\aiXpertLab\openai-ocr
+
+12/20/2024  09:21 AM    <DIR>          .
+12/20/2024  09:05 AM    <DIR>          ..
+11/18/2024  11:45 AM               496 .env
+12/20/2024  09:06 AM             3,284 .gitignore
+12/20/2024  09:05 AM    <DIR>          .vscode
+12/20/2024  09:12 AM    <DIR>          apps
+12/20/2024  09:12 AM    <DIR>          data
+12/20/2024  09:05 AM    <DIR>          images
+12/20/2024  09:21 AM                 0 log.txt
+12/19/2024  08:00 PM             1,084 OCR.py
+12/20/2024  09:05 AM    <DIR>          pages
+12/20/2024  09:12 AM    <DIR>          utils
+               4 File(s)          4,864 bytes
+               8 Dir(s)  24,026,558,464 bytes free
